@@ -1,4 +1,4 @@
-# Arquitetura Base de um projeto Angular
+# Arquitetura Base de um projeto Angular 🧱
 
 -> Módulo Core: 
       -> HTTP Interceptor;
